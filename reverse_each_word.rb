@@ -18,3 +18,12 @@ end
 
 
 
+#def reverse_words(sentence)
+
+ # split_words= sentence.split()
+ # reverse=split_words.each do |word|
+#  word.reverse
+ # end
+ # reverse.join(" ")
+#end
+#reverse_words("hello how are you?")
